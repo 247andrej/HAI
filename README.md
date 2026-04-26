@@ -4,7 +4,7 @@
 
 ## 🚀 Quick Start
 
-1.  **Download:** Grab the latest `linux-x64.tar.gz` from the **[Releases]** tab.
+1.  **Download:** Grab the latest `linux-x64.tar.gz` from the **[Releases](https://github.com/247andrej/HAI/releases)** tab.
 2.  **Extract:** Unpack the archive to a folder of your choice.
 3.  **Add a Model:** * Create a folder named `models` inside the app directory.
     * Place your favorite **.gguf** model files inside (e.g., Llama 3 or Mistral).
